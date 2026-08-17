@@ -1,4 +1,4 @@
 # This is my local repo
-learning git and github practically.
-
+learning git and Github practically.
+This change was made directly on Github.
 
